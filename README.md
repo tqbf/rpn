@@ -1,4 +1,4 @@
-This RPN calculator is handed from friend to friend and from parent to child across the generations, like a treasured heirloom that also "produce all the valid IP header lengths".
+This RPN calculator is handed from friend to friend and from parent to child across the generations, like a treasured heirloom that can also "produce all the valid IP header lengths".
 
 From Danny's README: 
 
